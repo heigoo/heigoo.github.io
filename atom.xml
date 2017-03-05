@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://github.com/heigoo/"/>
   <updated>2017-03-04T18:45:10.832Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://github.com/heigoo/</id>
   
   <author>
     <name>Qindi</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/03/04/hello-world/"/>
-    <id>http://yoursite.com/2017/03/04/hello-world/</id>
+    <link href="https://github.com/heigoo/2017/03/04/hello-world/"/>
+    <id>https://github.com/heigoo/2017/03/04/hello-world/</id>
     <published>2017-03-04T15:33:27.647Z</published>
     <updated>2017-03-04T18:45:10.832Z</updated>
     
